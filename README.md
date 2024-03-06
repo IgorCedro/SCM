@@ -6,4 +6,6 @@ ___
 - Faça commits locais
 - Faça um push
 
-"Um pequeno passa para o homem, mas um gigantesco salto para a humanidade"
+> "Um pequeno passa para o homem, mas um gigantesco salto para a humanidade"
+
+> "A vigança nunca é plena, mata a alma e envenena"
